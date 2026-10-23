@@ -23,7 +23,7 @@ This course aims to contribute towards the attainment of SDG 9 – Industry, Inn
 
 <table>
   <thead>
-    <tr><th align="left">Category</th><th align="left">Channels</th><th align="left">Playlist</th></tr>
+    <tr><th align="left">Category</th><th align="left">Hands On Activity</th><th align="left">No.</th></tr>
   </thead>
   <tbody>
 
