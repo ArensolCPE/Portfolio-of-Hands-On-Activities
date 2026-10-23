@@ -24,7 +24,7 @@ This course aims to contribute towards the attainment of SDG 9 – Industry, Inn
 
 <table>
   <thead>
-    <tr><th align="left">Prelim Activities</th>
+    <tr><th align="left">Prelim Activities</th><th align="left"></th></tr>
     <tr><th align="left">Hands On Activity</th><th align="left">No.</th></tr>
   </thead>
   <tbody>
