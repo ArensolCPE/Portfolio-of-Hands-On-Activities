@@ -21,11 +21,13 @@ Additionally, use mathematical techniques to analyze the efficiency of the vario
 The course also allows students to implement algorithms and conduct real-system performance measurements and analyses using the C++ programming language. 
 This course aims to contribute towards the attainment of SDG 9 – Industry, Innovation, and Infrastructure.
 
+
 <table>
   <thead>
-    <tr><th align="left">Category</th><th align="left">Hands On Activity</th><th align="left">No.</th></tr>
+    <tr><th align="left">Prelim Activities</th>
+    <tr><th align="left">Hands On Activity</th><th align="left">No.</th></tr>
   </thead>
   <tbody>
-
+  
   </tbody>
 </table>
