@@ -2,7 +2,9 @@
 
 
 Key Learning Outcomes:
+
 Course Description
+
 This course focuses on solving computational problems that manipulate collected data, studying a core set of data
 abstractions, data structures, and algorithms that provide a foundation for writing efficient programs. The course content
 includes theoretical topics in algorithmic efficiency and complexity, along with abstract data types, including graphs, networks,
