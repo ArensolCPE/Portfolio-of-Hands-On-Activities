@@ -1,5 +1,6 @@
 # Portfolio-of-Hands-On-Activities
 # CPE010-CPE21S4: Data Structures & Algorithms
+Name: James Alfred Y. Arensol
 
 # :pushpin:Key Learning Outcomes:
 
