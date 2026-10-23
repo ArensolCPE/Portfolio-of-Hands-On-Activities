@@ -2,9 +2,9 @@
 # CPE010-CPE21S4: Data Structures & Algorithms
 
 
-Key Learning Outcomes:
+# Key Learning Outcomes:
 
-Course Description
+Course Description:
 
 This course focuses on solving computational problems that manipulate collected data, studying a core set of data
 abstractions, data structures, and algorithms that provide a foundation for writing efficient programs. The course content
