@@ -23,12 +23,18 @@ The course also allows students to implement algorithms and conduct real-system 
 This course aims to contribute towards the attainment of SDG 9 – Industry, Innovation, and Infrastructure.
 
 
-<table>
-  <thead>
-    <tr><th align="left">Prelim Activities</th><th align="left"></th></tr>
-    <tr><th align="left">Hands On Activity</th><th align="left">No.</th></tr>
-  </thead>
-  <tbody>
-  
-  </tbody>
-</table>
+| Activity | Description | Link |
+| :--- | :--- | :--- |
+| **HOA 1** | Hands On Activity 1 | [View Folder](./HOA1P1) |
+| **HOA 2** | Hands On Activity 2 | [View Folder](./HOA2P1) |
+| **HOA 3** | Hands On Activity 3 | [View Folder](./HOA3P1) |
+| **HOA 4** | Hands On Activity 4 | [View Folder](./HOA4P1) |
+| **HOA 5** | Hands On Activity 5 | [View Folder](./HOA5P1) |
+| **HOA 6** | Hands On Activity 6 | [View Folder](./HOA6P1) |
+| **HOA 7** | Hands On Activity 7 | [View Folder](./HOA7P1) |
+| **HOA 9** | Hands On Activity 9 | [View Folder](./HOA9P1) |
+| **HOA 10** | Hands On Activity 10 | [View Folder](./HOA10P1) |
+| **HOA 11** | Hands On Activity 11 | [View Folder](./HOA11P1) |
+| **HOA 12** | Hands On Activity 12 | [View Folder](./HOA12P1) |
+| **HOA 13** | Hands On Activity 13 | [View Folder](./HOA13P1) |
+| **HOA 14** | Hands On Activity 14 | [View Folder](./HOA14P1) |
