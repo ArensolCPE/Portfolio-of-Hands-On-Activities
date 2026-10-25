@@ -24,6 +24,34 @@ Additionally, use mathematical techniques to analyze the efficiency of the vario
 The course also allows students to implement algorithms and conduct real-system performance measurements and analyses using the C++ programming language. 
 This course aims to contribute towards the attainment of SDG 9 – Industry, Innovation, and Infrastructure.
 
+# :books:Course Topics
+
+PRELIM PERIOD
+    I. Course Introduction: TIP Vision and Mission; TIP Graduate Attributes/Institutional Learning Outcomes; Program Educational
+    Objectives / Student Outcomes; Course Syllabus and Course Requirements; Orientation for Industry and Laboratory
+    Software and Tools.
+    
+    II. Introduction to Data Structures and Algorithm Analysis: C++ Programming Review, Abstract Data Types, Space and Time
+    Complexity, Algorithm Analysis Techniques
+    
+    III. Arrays and Linked Lists: Dynamic Memory Allocation, and Singly, Doubly and Circular Linked Lists
+    
+    IV. Stacks: Stack using Array, Stack using Linked Lists, Implementation in C++, Problem Solving
+    
+MIDTERM PERIOD
+    I. Queues: Queues using Arrays, Queues using Linked Lists, Implementation in C++, Problem Solving
+    
+    II. Searching Techniques: Linear Search, Binary Search, Hashing
+    
+    III. Sorting Algorithms: Basic Sorting Algorithms
+    
+FINAL PERIOD
+    I. Tree ADT; General and Binary Search Trees; AVL Tree; Traversal Algorithms; Solving Problems using Trees.
+    
+    II. Graph ADT; Adjacency Matrix and Adjacency List; Breadth-First Search; Depth-First Search; Solving Problems using Graphs.
+    
+    III. Basic Algorithm Analysis; Theoretical and Experimental Methods in Measuring Time; Time Complexity Classes.
+
 # :file_folder:Hands On Activities
 
 | Activity | Description | Link |
