@@ -1,6 +1,7 @@
 # Portfolio-of-Hands-On-Activities
 # CPE010-CPE21S4: Data Structures & Algorithms
 Name: James Alfred Y. Arensol
+
 Instructor: Engr. Jimlord Quejado
 
 # :pushpin:Key Learning Outcomes:
